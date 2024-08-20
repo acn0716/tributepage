@@ -1,0 +1,66 @@
+** start of undefined **
+
+
+h1
+{ 
+  font-size: 4rem;
+  text-align: center; 
+  font-family: monaco, monospace;
+  color: firebrick;
+}
+
+h2
+{
+text-align: center;
+font-family: arial;
+}
+
+h3
+{
+  text-align: center;
+  font-family: arial;
+  color: firebrick;
+}
+
+p
+{
+  font-family: arial;
+}
+ul
+{
+  text-align: center;
+  list-style-type: none;
+  font-family: arial;
+}
+
+figcaption
+{
+  text-align: center;
+}
+
+img
+{
+  max-width: 100%;
+  display: block; 
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div
+{
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+p
+{
+  text-align: center; 
+}
+a
+{
+  color: firebrick;
+}
+
+
+** end of undefined **
