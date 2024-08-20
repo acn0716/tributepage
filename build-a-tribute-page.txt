@@ -1,0 +1,110 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css"></link>
+</head>
+<body>
+  <main id="main">
+  <h1 id="title">Kyojuro Rengoku</h1>
+  <h2>The Flame Hashira</h2>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/10/Demon-Slayer---Rengoku-laughing.jpg"
+      alt="Picture of Rengoku laughing"
+    />
+    <figcaption id="img-caption">
+      Kyojuro Rengoku laughing outside of the Mungen Train Station 
+    </figcaption>
+    </figure>
+    <div></div>
+    <h3 id="tribute-info">Here are some facts about Kyojuro:</h3>
+    <ul>
+      <li>His birthday is May 10th</li>
+      <br>
+      <li>His combat style is Flame Breathing</li>
+      <br>
+      <li>He made his manga debut in Chapter 44</li>
+      <br>
+      <li>He is a master swordsman</li>
+    </ul>
+    <br>
+    <div></div>
+    <p>You can read more about Kyojuro's life and his abilities
+      <a id="tribute-link" href="https://kimetsu-no-yaiba.fandom.com/wiki/Kyojuro_Rengoku" target="_blank"> here</a>
+      </p>
+  </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+h1
+{ 
+  font-size: 4rem;
+  text-align: center; 
+  font-family: monaco, monospace;
+  color: firebrick;
+}
+
+h2
+{
+text-align: center;
+font-family: arial;
+}
+
+h3
+{
+  text-align: center;
+  font-family: arial;
+  color: firebrick;
+}
+
+p
+{
+  font-family: arial;
+}
+ul
+{
+  text-align: center;
+  list-style-type: none;
+  font-family: arial;
+}
+
+figcaption
+{
+  text-align: center;
+}
+
+img
+{
+  max-width: 100%;
+  display: block; 
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div
+{
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+p
+{
+  text-align: center; 
+}
+a
+{
+  color: firebrick;
+}
+
+
+** end of undefined **
+
